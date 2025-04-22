@@ -52,6 +52,11 @@ This repository implements a sentiment analysis model on the IMDB movie review d
 - IMDB reviews dataset (binary classification)
 - Loaded from HuggingFace: `stanfordnlp/imdb`
 
+- ## Pretrained Model
+
+The fine-tuned RoBERTa model can be downloaded from [Google Drive](https://drive.google.com/file/d/1bXTPLWaBTi-_bSfjoAlci0mLa5bZlD-O/view?usp=sharing).
+
+
 ##  Author
 
 - [Huangyinlin Zhang], University of Michigan
